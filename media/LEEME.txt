@@ -1,0 +1,29 @@
+Archivos que la pagina busca en esta carpeta (si falta alguno, se muestra un recuadro con una etiqueta):
+
+hero-loop.mp4        clip corto y vertical del escaner, 5 a 10 s, sin audio, en bucle
+demo-app.mp4         video completo de la demo
+demo-app-poster.jpg  imagen de portada del video (opcional)
+app-escaner.png      captura del escaner (vertical)
+app-jardin.png       captura de Mi Jardin
+app-cuidados.png     captura de cuidados y recordatorios
+app-misiones.png     captura de misiones y logros
+app-huella.png       captura de huella verde
+iot-co2.mp4          video del sensor de CO2 (formato 4:5 o vertical)
+iot-riego.mp4        video del riego automatico (formato 4:5 o vertical)
+iot-hardware.jpg     foto de los dos dispositivos juntos (formato ancho, 21:9)
+og.jpg               imagen para la vista previa de LinkedIn, 1200 x 630
+
+Consejo: comprime los videos (H.264, maximo 1080p) para que la pagina cargue rapido.
+
+Nuevos (logos y equipo; si falta alguno, se muestra el respaldo):
+
+logo.png             logo de ECO2 del encabezado (ya incluido)
+logo-intec.svg       logo de INTEC, junto a la linea del proyecto en el inicio
+team-jaime.png        ilustracion del miembro (ya incluidas las 4; si falta una, se muestran sus iniciales)
+
+Panel, documentacion y verificacion:
+
+verificacion-correo.png  captura del correo de verificacion (vertical o 4:5)
+admin-login.png          captura del login del panel (16:10, ancho)
+admin-panel.png          captura del panel de administracion (16:10, ancho)
+admin-docs.png           captura de la documentacion de la API (Scalar) (16:10, ancho)
